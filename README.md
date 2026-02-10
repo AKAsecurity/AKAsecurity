@@ -6,6 +6,9 @@ This page is editting...
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Skills 🌱
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/AKA2005.png" alt="Your Image Badge" />
+
 ### Programming Language
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,cpp,python,html,css,javascript,php" />
 
