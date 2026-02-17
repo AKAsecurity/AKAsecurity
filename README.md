@@ -8,7 +8,6 @@ This page is editting...
 ## Skills 🌱
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/AKA2005.png" alt="Your Image Badge" />
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6141473" style='border:none;'></iframe>
 
 ### Programming Language
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,cpp,python,html,css,javascript,php" />
